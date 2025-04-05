@@ -39,11 +39,11 @@ layers:
   - {t: '-', s: _}
   - LGUI
   - $$mdi:apple-keyboard-option$$
-  - {t: LANG2, h: NUM}
+  - {t: Gui+LANGUAGE 1, h: NUM}
   - {t: '$$mdi:keyboard-space$$', h: MOUSE}
   - {t: '$$mdi:keyboard-tab$$', h: SCROLL}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: LANGUAGE 1, h: SYM}
+  - {t: Gui+LANGUAGE 2, h: SYM}
   - $$mdi:backspace-reverse-outline$$
   NUM:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
